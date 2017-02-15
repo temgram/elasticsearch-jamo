@@ -1,0 +1,4 @@
+org/elasticsearch/index/analysis/HanguelJamoMorphTokenizerFactory.class
+org/elasticsearch/plugin/analysis/hangueljamo/AnalysisHanguelJamoPlugin.class
+org/elasticsearch/index/analysis/HanguelJamoMorphAnalyzerProvider.class
+org/elasticsearch/index/analysis/HanguelJamoMorphTokenFilterFactory.class
