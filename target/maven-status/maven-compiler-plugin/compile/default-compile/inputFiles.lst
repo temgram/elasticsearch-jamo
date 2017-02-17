@@ -1,4 +1,4 @@
-/Volumes/Transcend/Eclipse/workspace/elasticsearch-analysis-hangueljamo/src/main/java/org/elasticsearch/index/analysis/HanguelJamoMorphAnalyzerProvider.java
-/Volumes/Transcend/Eclipse/workspace/elasticsearch-analysis-hangueljamo/src/main/java/org/elasticsearch/plugin/analysis/hangueljamo/AnalysisHanguelJamoPlugin.java
-/Volumes/Transcend/Eclipse/workspace/elasticsearch-analysis-hangueljamo/src/main/java/org/elasticsearch/index/analysis/HanguelJamoMorphTokenizerFactory.java
-/Volumes/Transcend/Eclipse/workspace/elasticsearch-analysis-hangueljamo/src/main/java/org/elasticsearch/index/analysis/HanguelJamoMorphTokenFilterFactory.java
+/Volumes/Transcend/Git/elasticsearch-jamo/src/main/java/org/elasticsearch/index/analysis/HanguelJamoMorphTokenizerFactory.java
+/Volumes/Transcend/Git/elasticsearch-jamo/src/main/java/org/elasticsearch/index/analysis/HanguelJamoMorphAnalyzerProvider.java
+/Volumes/Transcend/Git/elasticsearch-jamo/src/main/java/org/elasticsearch/index/analysis/HanguelJamoMorphTokenFilterFactory.java
+/Volumes/Transcend/Git/elasticsearch-jamo/src/main/java/org/elasticsearch/plugin/analysis/hangueljamo/AnalysisHanguelJamoPlugin.java
