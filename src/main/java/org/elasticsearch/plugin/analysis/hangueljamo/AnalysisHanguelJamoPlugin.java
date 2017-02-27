@@ -36,7 +36,7 @@ public class AnalysisHanguelJamoPlugin extends Plugin implements AnalysisPlugin 
 
     @Override
     public Map<String, AnalysisProvider<TokenFilterFactory>> getTokenFilters() {
-        return singletonMap("arirangmao_filter", HanguelJamoMorphTokenFilterFactory::new);
+        return singletonMap("hangueljamo_filter", HanguelJamoMorphTokenFilterFactory::new);
     }
 
     @Override
